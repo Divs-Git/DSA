@@ -1,3 +1,5 @@
+export {};
+
 interface Head {
   data: number;
   next: Head | null;
